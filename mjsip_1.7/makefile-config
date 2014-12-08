@@ -19,8 +19,8 @@
 
 
 # Selects the proper OS
-#OS= Linux
-OS= Windows
+OS= Linux
+#OS= Windows
 
 
 # Selects the proper shell
