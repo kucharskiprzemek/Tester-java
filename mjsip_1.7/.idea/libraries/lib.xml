@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/conference.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ua.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sip.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
