@@ -38,7 +38,7 @@ MAKE= make
 ifeq (${OS},Windows) 
 	JDK_HOME= c:/programmi/jdk1.4.2
 else
-	JDK_HOME= /user/lib/jvm/java-8-oracle
+	JDK_HOME= /user/local/jdk1.4.2
 endif
 
 
